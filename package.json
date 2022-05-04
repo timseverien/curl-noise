@@ -1,0 +1,23 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.0"
+  },
+  "dependencies": {
+    "@bieb/math": "^1.2.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "glsl-chromatic-aberration": "^1.0.1",
+    "glsl-curl-noise": "0.0.4",
+    "glslify": "^7.1.1",
+    "seed-random": "^2.2.0",
+    "three": "^0.133.0"
+  }
+}
